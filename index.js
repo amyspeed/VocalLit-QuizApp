@@ -91,12 +91,6 @@ function quizPage() {
             </div>
             
             <div class="row">
-              <div class="col-12">
-                <legend class="box">Select One:</legend>
-              </div>
-            </div>  
-
-            <div class="row">
             ${choiceLoop()}
             </div>
           </fieldset>
